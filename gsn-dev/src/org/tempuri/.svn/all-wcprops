@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/gsn/!svn/ver/2080/trunk/src/org/tempuri
+END
+StoreScalarDataBatchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreScalarDataBatchResponse.java
+END
+GetAggregateScalarDataInBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataInBatch.java
+END
+GetAggregateScalarDataSeriesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataSeriesResponse.java
+END
+SensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/SensorData.java
+END
+GetLatestBinarySensorDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestBinarySensorDataResponse.java
+END
+GetLatestScalarDataInBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestScalarDataInBatch.java
+END
+GetSensorsByPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetSensorsByPublisher.java
+END
+UpdateSensorLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/UpdateSensorLocation.java
+END
+BinarySensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/BinarySensorData.java
+END
+GetLatestVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestVectorData.java
+END
+StoreVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreVectorData.java
+END
+GetScalarDataSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetScalarDataSeries.java
+END
+StoreBinaryDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreBinaryDataResponse.java
+END
+DeleteSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DeleteSensorResponse.java
+END
+GetAggregateScalarDataInBatchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataInBatchResponse.java
+END
+RegisterSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/RegisterSensor.java
+END
+GetLatestVectorDataByComponentIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestVectorDataByComponentIndex.java
+END
+DeleteVectorSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DeleteVectorSensor.java
+END
+SetSensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/2080/trunk/src/org/tempuri/SetSensorData.java
+END
+StoreVectorDataByComponentIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreVectorDataByComponentIndex.java
+END
+ArrayOfDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfDateTime.java
+END
+ExtensionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/2074/trunk/src/org/tempuri/ExtensionMapper.java
+END
+GetLatestScalarDataInBatchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestScalarDataInBatchResponse.java
+END
+GetSensorsByPublisherResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetSensorsByPublisherResponse.java
+END
+UpdateSensorLocationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/UpdateSensorLocationResponse.java
+END
+GetLatestVectorDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestVectorDataResponse.java
+END
+StoreVectorDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreVectorDataResponse.java
+END
+GetScalarDataSeriesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetScalarDataSeriesResponse.java
+END
+RegisterSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/RegisterSensorResponse.java
+END
+ArrayOfDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfDouble.java
+END
+DeleteVectorSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DeleteVectorSensorResponse.java
+END
+GetLatestVectorDataByComponentIndexResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestVectorDataByComponentIndexResponse.java
+END
+SetSensorDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gsn/!svn/ver/2080/trunk/src/org/tempuri/SetSensorDataResponse.java
+END
+StoreVectorDataByComponentIndexResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreVectorDataByComponentIndexResponse.java
+END
+RegisterVectorSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/RegisterVectorSensor.java
+END
+DataToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DataToString.java
+END
+GetScalarDataSeriesInBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gsn/!svn/ver/2074/trunk/src/org/tempuri/GetScalarDataSeriesInBatch.java
+END
+BasicSensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/BasicSensorData.java
+END
+GetAggregateScalarData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarData.java
+END
+GetSensorByPublisherAndName.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetSensorByPublisherAndName.java
+END
+ArrayOfSensorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfSensorInfo.java
+END
+GetAggregateScalarDataSeriesInBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataSeriesInBatch.java
+END
+GetLatestScalarData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestScalarData.java
+END
+ArrayOfGuid.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfGuid.java
+END
+StoreScalarData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreScalarData.java
+END
+ArrayOfBase64Binary.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfBase64Binary.java
+END
+StoreScalarDataBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreScalarDataBatch.java
+END
+RegisterVectorSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/RegisterVectorSensorResponse.java
+END
+GetAggregateScalarDataSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataSeries.java
+END
+DataToStringResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DataToStringResponse.java
+END
+GetScalarDataSeriesInBatchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gsn/!svn/ver/2074/trunk/src/org/tempuri/GetScalarDataSeriesInBatchResponse.java
+END
+GetLatestBinarySensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestBinarySensorData.java
+END
+GetAggregateScalarDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataResponse.java
+END
+GetSensorByPublisherAndNameResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetSensorByPublisherAndNameResponse.java
+END
+SensorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/SensorInfo.java
+END
+ArrayOfSensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfSensorData.java
+END
+GetAggregateScalarDataSeriesInBatchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetAggregateScalarDataSeriesInBatchResponse.java
+END
+ArrayOfString.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/ArrayOfString.java
+END
+GetLatestScalarDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/GetLatestScalarDataResponse.java
+END
+StoreBinaryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreBinaryData.java
+END
+StoreScalarDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/StoreScalarDataResponse.java
+END
+DeleteSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gsn/!svn/ver/1154/trunk/src/org/tempuri/DeleteSensor.java
+END

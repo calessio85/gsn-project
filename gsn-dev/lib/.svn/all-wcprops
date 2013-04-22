@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/gsn/!svn/ver/4413/trunk/lib
+END
+fmj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/gsn/!svn/ver/642/trunk/lib/fmj.jar
+END
+mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gsn/!svn/ver/126/trunk/lib/mailapi.jar
+END
+mylar-layout.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gsn/!svn/ver/126/trunk/lib/mylar-layout.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gsn/!svn/ver/1251/trunk/lib/ant-launcher.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/gsn/!svn/ver/1251/trunk/lib/ant.jar
+END
+stringtemplate.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gsn/!svn/ver/126/trunk/lib/stringtemplate.jar
+END
+cos.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/gsn/!svn/ver/2099/trunk/lib/cos.jar
+END
+mysql-connector-java-5.1.16-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gsn/!svn/ver/3292/trunk/lib/mysql-connector-java-5.1.16-bin.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gsn/!svn/ver/126/trunk/lib/antlr-2.7.7.jar
+END

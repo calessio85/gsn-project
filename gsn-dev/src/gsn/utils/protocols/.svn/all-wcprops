@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/utils/protocols
+END
+ProtocolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/utils/protocols/ProtocolManager.java
+END
+AbstractHCIQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/634/trunk/src/gsn/utils/protocols/AbstractHCIQuery.java
+END
+AbstractHCIQueryWithoutAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gsn/!svn/ver/634/trunk/src/gsn/utils/protocols/AbstractHCIQueryWithoutAnswer.java
+END
+AbstractHCIProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gsn/!svn/ver/634/trunk/src/gsn/utils/protocols/AbstractHCIProtocol.java
+END
+BasicHCIQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/634/trunk/src/gsn/utils/protocols/BasicHCIQuery.java
+END

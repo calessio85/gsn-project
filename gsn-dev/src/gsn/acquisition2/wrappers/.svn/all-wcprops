@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/acquisition2/wrappers
+END
+MigMessageParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/wrappers/MigMessageParameters.java
+END
+AbstractWrapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/acquisition2/wrappers/AbstractWrapper2.java
+END
+MemoryMontoringWrapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/acquisition2/wrappers/MemoryMontoringWrapper2.java
+END
+SafeStorageAbstractWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/acquisition2/wrappers/SafeStorageAbstractWrapper.java
+END
+MemoryWrapperProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/wrappers/MemoryWrapperProcessor.java
+END
+MigMessageWrapperProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/wrappers/MigMessageWrapperProcessor.java
+END
+MigMessageWrapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/acquisition2/wrappers/MigMessageWrapper2.java
+END

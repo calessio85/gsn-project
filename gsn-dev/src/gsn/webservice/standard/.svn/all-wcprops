@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gsn/!svn/ver/2766/trunk/src/gsn/webservice/standard
+END
+GSNWebServiceCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gsn/!svn/ver/2761/trunk/src/gsn/webservice/standard/GSNWebServiceCallbackHandler.java
+END
+GSNWebServiceStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gsn/!svn/ver/2761/trunk/src/gsn/webservice/standard/GSNWebServiceStub.java
+END
+GSNWebServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gsn/!svn/ver/2766/trunk/src/gsn/webservice/standard/GSNWebServiceClient.java
+END

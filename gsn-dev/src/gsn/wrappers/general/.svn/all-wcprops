@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gsn/!svn/ver/3903/trunk/src/gsn/wrappers/general
+END
+CSVHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/3903/trunk/src/gsn/wrappers/general/CSVHandler.java
+END
+UDPWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/wrappers/general/UDPWrapper.java
+END
+CSVWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gsn/!svn/ver/3903/trunk/src/gsn/wrappers/general/CSVWrapper.java
+END
+CSVWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1302/trunk/src/gsn/wrappers/general/CSVWrapperTest.java
+END
+EmptyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/wrappers/general/EmptyWrapper.java
+END
+HttpGetWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/wrappers/general/HttpGetWrapper.java
+END
+SerialWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/wrappers/general/SerialWrapper.java
+END

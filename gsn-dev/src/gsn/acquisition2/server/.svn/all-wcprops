@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/server
+END
+SafeStorageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/server/SafeStorageServer.java
+END
+SafeStorageServerSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/server/SafeStorageServerSessionHandler.java
+END
+SafeStorageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/server/SafeStorageController.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gsn/!svn/ver/2812/trunk/webservices/standard/src/gsn/webservice/standard
+END
+GetNextDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetNextDataResponse.java
+END
+GetVirtualSensorsDetailsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetVirtualSensorsDetailsResponse.java
+END
+RegisterQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gsn/!svn/ver/1761/trunk/webservices/standard/src/gsn/webservice/standard/RegisterQueryResponse.java
+END
+UnregisterQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gsn/!svn/ver/1761/trunk/webservices/standard/src/gsn/webservice/standard/UnregisterQueryResponse.java
+END
+GetContainerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GetContainerInfo.java
+END
+ListVirtualSensorNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/ListVirtualSensorNames.java
+END
+GetLatestMultiData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GetLatestMultiData.java
+END
+ListWrapperURLsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/ListWrapperURLsResponse.java
+END
+GetMultiDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetMultiDataResponse.java
+END
+DeleteVirtualSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/DeleteVirtualSensor.java
+END
+CreateVirtualSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/CreateVirtualSensor.java
+END
+GetVirtualSensorDetailsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetVirtualSensorDetailsResponse.java
+END
+GSNWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gsn/!svn/ver/1764/trunk/webservices/standard/src/gsn/webservice/standard/GSNWebService.java
+END
+GetNextData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GetNextData.java
+END
+GetVirtualSensorsDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GetVirtualSensorsDetails.java
+END
+RegisterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/RegisterQuery.java
+END
+GSNWebServiceSkeleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gsn/!svn/ver/2812/trunk/webservices/standard/src/gsn/webservice/standard/GSNWebServiceSkeleton.java
+END
+GetContainerInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetContainerInfoResponse.java
+END
+UnregisterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/UnregisterQuery.java
+END
+ListVirtualSensorNamesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/ListVirtualSensorNamesResponse.java
+END
+GSNWebServiceMessageReceiverInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GSNWebServiceMessageReceiverInOut.java
+END
+GetLatestMultiDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/GetLatestMultiDataResponse.java
+END
+DeleteVirtualSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gsn/!svn/ver/1761/trunk/webservices/standard/src/gsn/webservice/standard/DeleteVirtualSensorResponse.java
+END
+ListWrapperURLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/ListWrapperURLs.java
+END
+CreateVirtualSensorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gsn/!svn/ver/1760/trunk/webservices/standard/src/gsn/webservice/standard/CreateVirtualSensorResponse.java
+END
+GetMultiData.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/GetMultiData.java
+END

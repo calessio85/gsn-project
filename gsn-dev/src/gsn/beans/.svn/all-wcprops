@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gsn/!svn/ver/4437/trunk/src/gsn/beans
+END
+VSensorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/2196/trunk/src/gsn/beans/VSensorConfig.java
+END
+Modifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/beans/Modifications.java
+END
+StorageConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/2012/trunk/src/gsn/beans/StorageConfig.java
+END
+WebInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gsn/!svn/ver/797/trunk/src/gsn/beans/WebInput.java
+END
+VSensorMonitorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/beans/VSensorMonitorConfig.java
+END
+DataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/beans/DataTypes.java
+END
+GSNSessionAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1147/trunk/src/gsn/beans/GSNSessionAddress.java
+END
+StreamElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/4416/trunk/src/gsn/beans/StreamElement.java
+END
+ContainerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/2227/trunk/src/gsn/beans/ContainerConfig.java
+END
+InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/1902/trunk/src/gsn/beans/InputStream.java
+END
+AddressBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/4437/trunk/src/gsn/beans/AddressBean.java
+END
+TestStreamSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gsn/!svn/ver/1902/trunk/src/gsn/beans/TestStreamSource.java
+END
+StreamSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gsn/!svn/ver/2159/trunk/src/gsn/beans/StreamSource.java
+END
+DataField.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gsn/!svn/ver/2339/trunk/src/gsn/beans/DataField.java
+END
+SlidingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/1908/trunk/src/gsn/beans/SlidingConfig.java
+END

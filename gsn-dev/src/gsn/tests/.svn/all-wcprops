@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gsn/!svn/ver/2168/trunk/src/gsn/tests
+END
+MockWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/1254/trunk/src/gsn/tests/MockWrapper.java
+END
+TestSafeStorageGetDbUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/tests/TestSafeStorageGetDbUrl.java
+END
+KeyGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gsn/!svn/ver/634/trunk/src/gsn/tests/KeyGeneration.java
+END
+TestStreamElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/1155/trunk/src/gsn/tests/TestStreamElement.java
+END
+TestAdressBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/tests/TestAdressBean.java
+END

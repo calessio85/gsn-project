@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/1547/trunk/lib/optional/compiling
+END
+jibx-extras.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gsn/!svn/ver/822/trunk/lib/optional/compiling/jibx-extras.jar
+END
+bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/822/trunk/lib/optional/compiling/bcel.jar
+END
+jibx-bind.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gsn/!svn/ver/822/trunk/lib/optional/compiling/jibx-bind.jar
+END

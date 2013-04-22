@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/xsd
+END
+GSNWebService_FieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_FieldSelector.java
+END
+GSNWebService_ConfProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfProcessor.java
+END
+GSNWebService_WrapperDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_WrapperDetails.java
+END
+GSNWebService_VirtualSensorDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_VirtualSensorDetails.java
+END
+GSNWebService_ConfWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfWrapper.java
+END
+GSNWebService_DetailsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_DetailsType.java
+END
+GSNWebService_ConfOutputStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfOutputStructure.java
+END
+GSNWebService_ContainerDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ContainerDetails.java
+END
+GSNWebService_ConfAddressing.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfAddressing.java
+END
+GSNWebService_ACDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ACDetails.java
+END
+ExtensionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gsn/!svn/ver/2197/trunk/webservices/standard/src/gsn/webservice/standard/xsd/ExtensionMapper.java
+END
+GSNWebService_ConfInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfInfo.java
+END
+GSNWebService_WrapperURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_WrapperURL.java
+END
+GSNWebService_QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_QueryResult.java
+END
+GSNWebService_StreamElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_StreamElement.java
+END
+GSNWebService_ConfPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gsn/!svn/ver/1759/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_ConfPredicate.java
+END
+GSNWebService_DataField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gsn/!svn/ver/1758/trunk/webservices/standard/src/gsn/webservice/standard/xsd/GSNWebService_DataField.java
+END

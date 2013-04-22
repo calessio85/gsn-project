@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/2359/trunk/lib/optional/numerical
+END
+REngine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/2359/trunk/lib/optional/numerical/REngine.jar
+END
+flanagan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gsn/!svn/ver/1868/trunk/lib/optional/numerical/flanagan.jar
+END
+JRIEngine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gsn/!svn/ver/2359/trunk/lib/optional/numerical/JRIEngine.jar
+END
+numericalMethods.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gsn/!svn/ver/1868/trunk/lib/optional/numerical/numericalMethods.jar
+END
+JRI.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/2359/trunk/lib/optional/numerical/JRI.jar
+END

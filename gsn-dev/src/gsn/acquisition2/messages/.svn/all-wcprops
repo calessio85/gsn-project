@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/messages
+END
+DataMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gsn/!svn/ver/797/trunk/src/gsn/acquisition2/messages/DataMsg.java
+END
+AbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/messages/AbstractMessage.java
+END
+AcknowledgmentMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gsn/!svn/ver/720/trunk/src/gsn/acquisition2/messages/AcknowledgmentMsg.java
+END
+HelloMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gsn/!svn/ver/1252/trunk/src/gsn/acquisition2/messages/HelloMsg.java
+END

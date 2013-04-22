@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss
+END
+rome-0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss/rome-0.9.jar
+END
+saxpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss/saxpath.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss/jdom.jar
+END
+jaxen-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss/jaxen-core.jar
+END
+jaxen-jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/1251/trunk/lib/rss/jaxen-jdom.jar
+END

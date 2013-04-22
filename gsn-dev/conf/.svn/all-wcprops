@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/gsn/!svn/ver/4437/trunk/conf
+END
+gsn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/gsn/!svn/ver/2207/trunk/conf/gsn.xml
+END
+ms-metadata.csv
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gsn/!svn/ver/1162/trunk/conf/ms-metadata.csv
+END
+spatial.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gsn/!svn/ver/3095/trunk/conf/spatial.properties
+END
+realm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gsn/!svn/ver/1253/trunk/conf/realm.properties
+END
+servertestkeystore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gsn/!svn/ver/2097/trunk/conf/servertestkeystore
+END
+log4j_sensorscope.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gsn/!svn/ver/3353/trunk/conf/log4j_sensorscope.properties
+END
+log4j_safestorage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/891/trunk/conf/log4j_safestorage.properties
+END
+safestorage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gsn/!svn/ver/1174/trunk/conf/safestorage.properties
+END
+containerJIBX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/2134/trunk/conf/containerJIBX.xml
+END
+wrappers.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gsn/!svn/ver/4437/trunk/conf/wrappers.properties
+END
+clienttestkeystore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gsn/!svn/ver/2097/trunk/conf/clienttestkeystore
+END
+keystore
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gsn/!svn/ver/2097/trunk/conf/keystore
+END
+emails.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/1854/trunk/conf/emails.properties
+END
+servertestcer.cer
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gsn/!svn/ver/2097/trunk/conf/servertestcer.cer
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gsn/!svn/ver/1647/trunk/conf/log4j.properties
+END
+safe_storage_wrappers.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gsn/!svn/ver/1253/trunk/conf/safe_storage_wrappers.properties
+END
+monitoring.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gsn/!svn/ver/1148/trunk/conf/monitoring.cfg
+END
+VirtualSensorDescription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gsn/!svn/ver/4437/trunk/conf/VirtualSensorDescription.xml
+END
+sensorscope_server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gsn/!svn/ver/3429/trunk/conf/sensorscope_server.properties
+END

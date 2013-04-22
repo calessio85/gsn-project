@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gsn/!svn/ver/4413/trunk/lib/optional/modeling
+END
+libsvm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gsn/!svn/ver/4413/trunk/lib/optional/modeling/libsvm.jar
+END
+weka.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gsn/!svn/ver/4413/trunk/lib/optional/modeling/weka.jar
+END
