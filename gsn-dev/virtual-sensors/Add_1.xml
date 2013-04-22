@@ -1,0 +1,36 @@
+<virtual-sensor name="LaMare_1" priority="15">
+	<processing-class>
+	    <class-name>gsn.vsensor.BridgeVirtualSensor</class-name>
+	    <unique-timestamps>true</unique-timestamps>
+		<init-params />
+		<output-structure>
+		    <field name="RECORD" type="double" />
+		    <field name="IR_up_down" type="double" />
+		   
+		    
+		</output-structure>
+	</processing-class>
+	<description>Valori sensoriali AWS LaMare_2</description>
+	<life-cycle pool-size="10" />
+	<addressing>
+		<predicate key="geographical">Sensor LaMare</predicate>
+		<predicate key="LATITUDE">46.430433</predicate>
+		<predicate key="LONGITUDE">10.640194</predicate>
+		<predicate key='ALTITUDE'>3703</predicate> 
+        <predicate key='NAME'>LAMARE_add_1</predicate>
+        
+	</addressing>
+	<storage /> 
+	<streams>
+		<stream name="inputCSV">
+			<source alias="source" sampling-rate="1" storage-size="1">
+				<address wrapper="local">
+		           <predicate key="NAME">lamare_raw</predicate>
+		  		   <predicate key="start-time">2012-08-01T12:15:00.000-01:00</predicate>
+		        </address>
+		        <query>SELECT * FROM wrapper </query>
+			</source>
+			<query>SELECT TIMED, record, (IR_up+IR_down) AS IR_up_down FROM source</query>
+		</stream>
+	</streams>
+</virtual-sensor>

@@ -1,0 +1,53 @@
+<virtual-sensor name="zagreb_raw" priority="10">
+	<processing-class>
+	    <class-name>gsn.vsensor.BridgeVirtualSensor</class-name>
+	    <unique-timestamps>true</unique-timestamps>
+		<init-params />
+		<output-structure>
+		    
+		    <field name="TempRTC" type="double" />
+		    <field name="vec" type="double" />
+		    <field name="P" type="double" />
+		    <field name="Vpanel" type="double" />
+		    <field name="Vbat" type="double" />
+		    <field name="Vout" type="double" />
+		    <field name="Vms_ok" type="smallint" />
+		    <field name="sn_enable" type="smallint" />
+		    <field name="ht_enable" type="smallint" />
+		    <field name="temp_low" type="smallint" />
+		    <field name="state_of_charger" type="smallint" />
+		    
+		</output-structure>
+	</processing-class>
+	<description>Valori sensoriali AWS Zagabria_1</description>
+	<life-cycle pool-size="10" />
+	<addressing>
+		<predicate key="geographical">Sensor Zagreb</predicate>
+		<predicate key='NAME'>zagreb_raw</predicate>
+        
+        
+	</addressing>
+	<streams>
+		<stream name="inputCSV">
+			<source alias="source" sampling-rate="1" storage-size="1">
+				<address wrapper="csv">
+		           <predicate key="file">/home/calessio/Scrivania/Tesi/Zagabria/zagrebb.dat</predicate>
+		           <predicate key="fields">hwname,day,timed,TempRTC,vec,P,Vpanel,Vbat,Vout,Vms_ok,sn_enable,ht_enable,temp_low,state_of_charger </predicate>
+		           <predicate key="formats">string,string,timestamp(yy/MM/dd - HH:mm.ss),numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric</predicate>
+		           <predicate key="bad-values">NaN,6999,-6999, 7999,-7999, NULL</predicate>
+		           <predicate key="timezone">Etc/GMT-1</predicate>
+		           <predicate key="sampling">60000</predicate>
+		           <predicate key="check-point-directory">csv-check-points</predicate>
+		    	   <predicate key="separator">;</predicate>
+		    	   <predicate key="skip-first-lines">4</predicate>
+		        </address>
+		        
+		        <query>SELECT TIMED,TempRTC,vec,P,Vpanel,Vbat,Vout,Vms_ok,sn_enable,ht_enable,temp_low,state_of_charger from wrapper</query>
+		   </source>
+		   <query> SELECT * FROM source </query>
+		       
+		 </stream>
+		 
+	 
+	</streams>
+</virtual-sensor>
