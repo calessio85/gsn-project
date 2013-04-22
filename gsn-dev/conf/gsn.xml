@@ -1,8 +1,8 @@
 <sensor-server>
-   <name>GSN Server</name>
-   <author>GSN Development Team.</author>
+   <name>Lamare Server</name>
+   <author>University of Pisa</author>
    <email>my email address</email>
-   <description>Not Provided</description>
+   <description>Rilevazioni su sensori posizionati su arco alpino italiano</description>
    <port>22001</port>
 
 <!-- SSL Support, Optional -->

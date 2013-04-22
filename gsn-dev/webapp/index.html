@@ -22,6 +22,7 @@ $(document).ready(function() {
 	$("#refreshall_timeout").bind("change",GSN.updateallchange);
 	$("#refreshall").bind("click",GSN.updateall);
 	$("#closeall").bind("click",GSN.closeall);
+	
 	//$("#toggleallmarkers").bind("click",GSN.map.toggleAllMarkers);
 	
 	$("#navigation ul a.local").bind("click",function() { return GSN.nav($(this).text()); });
@@ -41,6 +42,8 @@ $(document).ready(function() {
 });	
 //]]>-->
 </script>
+
+			   
 </head>
 <body>
 
@@ -68,6 +71,12 @@ $(document).ready(function() {
 			</select>
 			<input id="refreshall" type="button" value="refresh" />
 			<input id="closeall" type="button" value="close all" />
+			
+			    
+			   
+
+			
+			
 			<span class="refreshing"><img src="style/ajax-loader.gif" alt="loading" title="" /></span>
 		  </p>
 		</div>
