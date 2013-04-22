@@ -1,0 +1,62 @@
+<virtual-sensor name="LaMare_raw" priority="10">
+	<processing-class>
+	    <class-name>gsn.vsensor.BridgeVirtualSensor</class-name>
+	    <unique-timestamps>true</unique-timestamps>
+		<init-params />
+		<output-structure>
+		    <field name="RECORD" type="double" />
+		    <field name="RG_up" type="double" />
+		    <field name="RG_down" type="double" />
+		    <field name="AirTC" type="double" />
+		    <field name="RH" type="double" />
+		    <field name="V_wind_S" type="double" />
+		    <field name="V_wind_U" type="double" />
+		    <field name="DIR_wind_DU" type="double" />
+		    <field name="DIR_wind_SDU" type="double" />
+		    <field name="IR_up" type="double" />
+		    <field name="IR_down" type="double" />
+		    <field name="IR_upc" type="double" />
+		    <field name="IR_downc" type="double" />
+		    <field name="T_107_1" type="double" />
+		    <field name="T_107_2" type="double" />
+		    <field name="Thmp45" type="double" />
+		    <field name="URhmp45" type="double" />
+		    <field name="SW12Volts" type="double" />
+		    
+		</output-structure>
+	</processing-class>
+	<description>Valori sensoriali AWS LaMare_1</description>
+	<life-cycle pool-size="10" />
+	<addressing>
+		<predicate key="geographical">Sensor LaMare</predicate>
+		<predicate key="LATITUDE">46.430433</predicate>
+		<predicate key="LONGITUDE">10.640194</predicate>
+		<predicate key='ALTITUDE'>3703</predicate> 
+		<predicate key='NAME'>lamare_raw</predicate>
+        
+        
+	</addressing>
+	<streams>
+		<stream name="inputCSV">
+			<source alias="source" sampling-rate="1" storage-size="1">
+				<address wrapper="csv">
+		           <predicate key="file">/home/calessio/Scrivania/CR1000.dat</predicate>
+		           <predicate key="fields">timed,record,RGup,RGdown,AirTC,RH,Vvento_S,Vvento_U,DirVento_DU,DirVento_SDU,IRup,IRdown,IRupc,IRdownc,T107_1,T107_2,Thmp45,URhmp45,SW12Volts</predicate>
+		           <predicate key="formats">timestamp(y-M-d H:m:s),numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric</predicate>
+		           <predicate key="bad-values">NaN,6999,-6999, 7999,-7999, NULL</predicate>
+		           <predicate key="timezone">Etc/GMT-1</predicate>
+		           <predicate key="sampling">60000</predicate>
+		           <predicate key="check-point-directory">csv-check-points</predicate>
+		           <predicate key="skip-first-lines">4</predicate>
+		        </address>
+		        
+		        <query>SELECT TIMED,record,RGUP AS RG_up,RGDOWN AS RG_down,AIRTC AS AirTC,rh,VVENTO_S AS V_wind_S,VVENTO_U AS V_wind_U,DIRVENTO_DU AS DIR_wind_DU,DIRVENTO_SDU AS DIR_wind_SDU,IRUP AS IR_up,IRDOWN AS IR_down,IRUPC AS IR_upc,IRDOWNC AS IR_downc, T107_1 as T_107_1, T107_2 AS T_107_2,Thmp45,URhmp45,SW12Volts FROM wrapper
+		        </query>
+		   </source>
+		   <query> SELECT * FROM source </query>
+		       
+		 </stream>
+		 
+	 
+	</streams>
+</virtual-sensor>

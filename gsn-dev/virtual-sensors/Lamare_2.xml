@@ -1,0 +1,44 @@
+<virtual-sensor name="LaMare_second">
+	<processing-class>
+	    <class-name>gsn.vsensor.BridgeVirtualSensor</class-name>
+	    <unique-timestamps>true</unique-timestamps>
+		<init-params />
+		<output-structure>
+		    <field name="RECORD" type="double" />
+		    <field name="BATT_VOLT" type="double" />
+		    <field name="H_snow" type="double" />
+		    
+		</output-structure>
+	</processing-class>
+	<description>Valori sensoriali AWS LaMare_1</description>
+	<life-cycle pool-size="10" />
+	<addressing>
+		<predicate key="geographical">Sensor LaMare</predicate>
+		<predicate key="LATITUDE">46.430433</predicate>
+		<predicate key="LONGITUDE">10.640194</predicate>
+		<predicate key='ALTITUDE'>3703</predicate> 
+        <predicate key='NAME'>LAMARE_second</predicate>
+        
+	</addressing>
+	<streams>
+		<stream name="SecondCSV">		 
+			<source alias="sorg" sampling-rate="1" storage-size="1">
+				<address wrapper="csv">
+		           <predicate key="file">/home/calessio/Scrivania/CR1001.dat</predicate>
+		           <predicate key="fields">timed,record,Batt_Volt,H_snow</predicate>
+		           <predicate key="formats">timestamp(y-M-d H:m:s),numeric,numeric,numeric</predicate>
+		           <predicate key="bad-values">NaN,6999,-6999, 7999,-7999, NULL</predicate>
+		           <predicate key="timezone">Etc/GMT-1</predicate>
+		           <predicate key="sampling">60000</predicate>
+		           <predicate key="check-point-directory">csv-check-points</predicate>
+		           <predicate key="skip-first-lines">4</predicate>
+		        </address>
+		        <query>	SELECT TIMED,record,BATT_VOLT,(270 - H_SNOW) AS H_SNOW from wrapper
+		        </query>
+			</source>
+			
+			 <query> SELECT * FROM sorg
+		     </query>
+		</stream>
+	</streams>
+</virtual-sensor>
